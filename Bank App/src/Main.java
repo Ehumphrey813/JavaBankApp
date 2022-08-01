@@ -18,7 +18,7 @@ public class Main {
         password = input.nextLine();
         System.out.println();
         
-        
+        //If the log in succeeds then user will proceed to application
         if(username.equals("Ethan") && password.equals("123"))
         {
         	Account ethan = new Account("Ethan Humphrey", "A00001");
