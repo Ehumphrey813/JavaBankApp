@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Account {
 
-	//Variables
+	//Declaring Variables
 	int balance;
 	int previousTransaction;
 	String CustomerName;
